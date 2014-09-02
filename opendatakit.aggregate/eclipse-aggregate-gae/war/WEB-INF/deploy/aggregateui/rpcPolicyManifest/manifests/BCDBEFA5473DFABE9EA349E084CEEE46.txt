@@ -1,0 +1,2 @@
+serviceClass: org.opendatakit.aggregate.client.odktables.ServerTableService
+path: D105FD51BEAA0670340E1B2520CDFBDB.gwt.rpc

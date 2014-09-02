@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.opendatakit.common.web.servlet.CommonServletBase"/>
+<fullyQualifiedTypeName name="com.google.apphosting.api.ApiProxy.OverQuotaException"/>
+<fullyQualifiedTypeName name="org.opendatakit.aggregate.form.FormGrantAuthority"/>
+<fullyQualifiedTypeName name="org.opendatakit.common.persistence.Query.FilterOperation"/>
+<fullyQualifiedTypeName name="src.main.java.org.opendatakit.common.web.CallingContext"/>
+<fullyQualifiedTypeName name="src.main.java.org.opendatakit.common.persistence.TaskLock"/>
+<fullyQualifiedTypeName name="src.main.java.org.opendatakit.common.persistence.QueryResult"/>
+<fullyQualifiedTypeName name="src.main.java.org.opendatakit.common.persistence.QueryResumePoint"/>
+<fullyQualifiedTypeName name="src.main.java.org.opendatakit.common.persistence.PersistConsts"/>
+<fullyQualifiedTypeName name="src.main.java.org.opendatakit.common.persistence.Datastore"/>
+<fullyQualifiedTypeName name="src.main.java.org.opendatakit.common.persistence.CommonFieldsBase"/>
+<fullyQualifiedTypeName name="src.main.java.org.opendatakit.common.persistence.DataField"/>
+<fullyQualifiedTypeName name="src.main.java.org.opendatakit.common.ermodel.TableNamespace"/>
+<fullyQualifiedTypeName name="src.main.java.org.opendatakit.common.ermodel.Entity"/>
+<fullyQualifiedTypeName name="src.main.java.org.opendatakit.common.ermodel.Query"/>
+<fullyQualifiedTypeName name="src.main.java.org.opendatakit.aggregate.constants.common.FilterOperation"/>
+<fullyQualifiedTypeName name="com.google.gdata.data.contacts.Relation"/>
+<fullyQualifiedTypeName name="src.main.java.org.opendatakit.common.persistence.Query"/>
+<fullyQualifiedTypeName name="src.main.java.org.opendatakit.common.ermodel.Relation"/>
+<fullyQualifiedTypeName name="src.main.java.org.opendatakit.common.persistence.Query.FilterOperation"/>
+<fullyQualifiedTypeName name="src.main.java.org.opendatakit.common.ermodel.AbstractBlobRelationSet"/>
+<fullyQualifiedTypeName name="src.main.java.org.opendatakit.common.ermodel.BlobEntitySet"/>
+<fullyQualifiedTypeName name="src.main.java.org.opendatakit.aggregate.odktables.DataManager"/>
+<fullyQualifiedTypeName name="src.main.java.org.opendatakit.aggregate.odktables.TableManager"/>
+<fullyQualifiedTypeName name="src.main.java.org.opendatakit.aggregate.odktables.TableAclManager"/>
+<fullyQualifiedTypeName name="src.main.java.org.opendatakit.aggregate.datamodel.FormElementModel.ElementType"/>
+<fullyQualifiedTypeName name="src.main.java.org.opendatakit.aggregate.datamodel.FormElementModel.Metadata"/>
+<fullyQualifiedTypeName name="src.main.java.org.opendatakit.aggregate.datamodel.FormElementModel"/>
+<fullyQualifiedTypeName name="src.main.java.org.opendatakit.aggregate.datamodel.FormDataModel"/>
+<fullyQualifiedTypeName name="java.rmi.Naming"/>
+<fullyQualifiedTypeName name="java.util.logging.Logger"/>
+<fullyQualifiedTypeName name="java.util.logging.FileHandler"/>
+<fullyQualifiedTypeName name="java.util.logging.SimpleFormatter"/>
+</qualifiedTypeNameHistroy>

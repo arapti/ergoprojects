@@ -1,0 +1,2 @@
+serviceClass: org.opendatakit.aggregate.client.form.FormService
+path: 226735EF8FEB83AC7FC0701DA25C00FD.gwt.rpc
